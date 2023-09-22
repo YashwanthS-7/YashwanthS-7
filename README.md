@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YashwanthS-7/YashwanthS-7/output/snake.svg" alt="Snake animation" />
+
 
 ###
