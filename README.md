@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Hello! I'm Yashwanth S, a passionate and skilled creative Undergraduate Student at IIIT-S. With an extensive repertoire of skills, I bring a unique blend of artistic flair, technical acumen, and strategic thinking to every project I undertake. <br><br>🔭 Sophomore Student at Indian Institute of Information Technology, Sri City<br>🌱 I work at GDSC - IIITS as a Data Science Core Member.<br>📫 Get in touch : yashwanths2709@gmail.com</p>
+<p align="left">Hello! I'm Yashwanth S, a passionate and skilled creative Undergraduate Student at IIIT-S. With an extensive repertoire of skills, I bring a unique blend of artistic flair, technical acumen, and strategic thinking to every project I undertake. <br><br>🔭 Pre-Final Year Student at Indian Institute of Information Technology, Sri City<br>🌱 I work as Epoch Co-Lead - IIITS as AIML Enthusiast.<br>📫 Get in touch : yashwanths2709@gmail.com</p>
 
 ###
 
